@@ -44,13 +44,3 @@ public class Main {
         sc.close();
     }
 }
-
-
-
-OUTPUT:
-
-Enter Length and Breadth: 10
-5
-Area of Rectangle is 50.0
-Area of Triangle is 25.0
-Area of Circle is 314.2857
