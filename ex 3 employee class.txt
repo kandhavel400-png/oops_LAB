@@ -196,33 +196,3 @@ public class Main {
         in.close();
     }
 }
-
-
-
-OUTPUT:
-
-Enter Employee Name: Arun
-Enter Employee ID: 201
-Enter Address: Chennai
-Enter Mail ID: arun@gmail.com
-Enter Mobile Number: 9876543210
-Enter Basic Pay: 45000
-
-Choose Designation
-1. Programmer
-2. Assistant Professor
-3. Associate Professor
-4. Professor
-5. Exit
-Enter Choice: 2
-
-***** ASSISTANT PROFESSOR PAY SLIP *****
-
-Employee Name : Arun
-Employee ID   : 201
-Address       : Chennai
-Mail ID       : arun@gmail.com
-Mobile Number : 9876543210
-Basic Pay     : 45000.0
-Gross Salary  : 98595.0
-Net Salary    : 93150.0
