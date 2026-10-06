@@ -78,39 +78,3 @@ class ElectricityBill {
         eb.displayBill();
     }
 }
-
-
-
-
-
-
-
-
-OUTPUT :
-
-Enter Consumer Number: 101
-Enter Consumer Name: Arun
-Enter Previous Month Reading: 1200
-Enter Current Month Reading: 1450
-Enter Connection Type (Domestic/Commercial): Domestic
-
------- Electricity Bill ------
-Consumer Number : 101
-Consumer Name   : Arun
-Connection Type : Domestic
-Units Consumed  : 250
-Bill Amount     : Rs. 675.0
-
-
-Enter Consumer Number: 202
-Enter Consumer Name: Priya
-Enter Previous Month Reading: 500
-Enter Current Month Reading: 1100
-Enter Connection Type (Domestic/Commercial): Commercial
-
------- Electricity Bill ------
-Consumer Number : 202
-Consumer Name   : Priya
-Connection Type : Commercial
-Units Consumed  : 600
-Bill Amount     : Rs. 4500.0
