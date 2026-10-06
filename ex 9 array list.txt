@@ -56,14 +56,3 @@ public class StringArrayListOperations {
         System.out.println("Converted ArrayList: " + convertedList);
     }
 }
-
-OUTPUT 
-
-Initial ArrayList: [Apple, Banana, Mango, Orange]
-After inserting at index 2: [Apple, Banana, Grapes, Mango, Orange]
-String found: Mango
-String not found: Pineapple
-Strings starting with 'A':
-Apple
-Original String: Java is a programming language
-Converted ArrayList: [Java, is, a, programming, language]
