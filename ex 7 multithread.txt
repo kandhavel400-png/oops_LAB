@@ -65,31 +65,3 @@ public class ThreadProgram
         a.start();
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-OUTPUT:
-Main Thread and Generated Number is 26
-New Thread 26 is EVEN and Square of 26 is: 676
-
-Main Thread and Generated Number is 15
-New Thread 15 is ODD and Cube of 15 is: 3375
-
-Main Thread and Generated Number is 82
-New Thread 82 is EVEN and Square of 82 is: 6724
-
-Main Thread and Generated Number is 7
-New Thread 7 is ODD and Cube of 7 is: 343
-
-Main Thread and Generated Number is 40
-New Thread 40 is EVEN and Square of 40 is: 1600
