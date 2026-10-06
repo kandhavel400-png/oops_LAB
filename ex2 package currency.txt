@@ -102,31 +102,3 @@ public class Main {
         t.secondsToHours(7200);
     }
 }
-
-
-
-
-
-
-
-
-OUTPUT :
-===== Currency Converter =====
-Dollar to INR = 830.0
-INR to Dollar = 10.0
-Euro to INR = 450.0
-INR to Euro = 5.0
-Yen to INR = 56.0
-INR to Yen = 1000.0
-
-===== Distance Converter =====
-Meter to KM = 5.0
-KM to Meter = 5000.0
-Miles to KM = 16.09
-KM to Miles = 10.0
-
-===== Time Converter =====
-Hours to Minutes = 120.0
-Minutes to Hours = 2.0
-Hours to Seconds = 7200.0
-Seconds to Hours = 2.0
